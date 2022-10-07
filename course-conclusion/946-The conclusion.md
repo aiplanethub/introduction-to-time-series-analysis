@@ -1,1 +1,15 @@
-<p><iframe allowfullscreen width="100%" height="569" class="google-slides-iframe" frameborder="0" scrolling="no" src="https://docs.google.com/presentation/d/e/2PACX-1vQX2ry0tyrsy6pyxoq1XuW68M4t43rfg2i5Q3l4Mrx_c9f6MynAk68aLyxtA_kYLAato3SKFMv372ti/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></p>
+## The Conclusion
+
+Congratulations! You have completed the 'Introduction
+to Time Series Analysis' course.
+
+I hope you have enjoyed learning about time series. This
+was a basic introduction to time series. There are some more
+advance models used for time series forecasting, like some
+deep learning models - LSTM, RNN, to say some which will
+be covered in the second part of this course series.
+
+## References for the Course
+
+* AI Engineering
+* 365datascience
