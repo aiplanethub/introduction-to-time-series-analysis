@@ -1,17 +1,17 @@
 ## Learning Objectives
 
 * Importance of Time Series Data Analysis
-* Hands-on on Time Series Data Analysis
+* Hands-on Time Series Data Analysis
 * Notebook
 
 
 ## Importance of Time Series Data Analysis
 
-* Data analysis is very important part for time series data. There are multiple factors to it.
+* Data analysis is a very important part of time series data. There are multiple factors to it.
 * Some time series problems are often solved by proper data analysis.
 * When we talk about data analysis for time series data, these are both statistical techniques and exploratory analysis.
-* It helps to find the patterns of the data as well as the structure of the data. When we say pattern, we want to check if the data has the seasonality, or increasing or decreasing trend in the data, or if the data is cyclic, or if the data is stationary or non-stationary.
-* It also helps you while dealing with missing data in time series data. For normal machine learning problem, we fill the missing values with mean, median, mode, or we drop the data. But in case of time series data in order to fill the missing values we need to understand the structure of the data. In time series data we cannot even drop the data as the order of the events that are happening in the time series world are very important.
+* It helps to find the patterns of the data as well as the structure of the data. When we say pattern, we want to check if the data has seasonality, or increasing or decreasing trend in the data, if the data is cyclic, or if the data is stationary or non-stationary.
+* It also helps you deal with missing data in time series data. For normal machine learning problems, we fill the missing values with mean, median, mode or drop the data. But in the case of time series data, to fill the missing values, we need to understand the structure of the data. In time series data, we cannot even drop the data as the order of the events that are happening in the time series world are very important.
 
 ​In the video below, the tutor will discuss the following things:
 * The importance of data analysis for time series data in
@@ -63,8 +63,8 @@ https://github.com/srivatsan88/End-to-End-Time-Series/blob/master/Timeseries_Dat
 
 ### Autocorrelation
 
-* We can calculate the correlation for time series observations with observations with previous time steps, called lags. 
-* Because the correlation of the time series observations is calculated with values of the same series at previous times, this is called a serial correlation, or an autocorrelation.
+* We can calculate the correlation for time series observations with previous time steps, called lags. 
+* Because the correlation of the time series observations is calculated with values of the same series at previous times, this is called a serial correlation or an autocorrelation.
 
 
 
