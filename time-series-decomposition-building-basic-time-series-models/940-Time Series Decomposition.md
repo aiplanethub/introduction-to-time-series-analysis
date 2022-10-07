@@ -18,7 +18,7 @@ the course.
 
 ## Why Time Series Decomposition?
 ​
-In the video below the instructor discusses about time series decomposition in detail and its implementation using a real world dataset.
+In the video below, the instructor discusses time series decomposition in detail and its implementation using a real-world dataset.
 ​
 ​
 
