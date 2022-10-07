@@ -8,11 +8,9 @@
 
 ## What is Time Series?
 
-A time series is a sequence of numerical data points
-ordered in time.
+A time series is a sequence of numerical data points ordered in time.
 
-Time series can have one or more variables that change
-over time.
+Time series can have one or more variables that change over time.
 
 
 
@@ -34,10 +32,10 @@ over time.
 
 * Time series analysis gives one the ability to see ahead of time.
 * Time series analysis extracts meaningful statistics and other dataset characteristics to understand it.
-* Time series allows you to analyze major patterns such as trends, seasonality, cyclicity, and irregularity. Don’t worry if you are not aware of some of these terms - we will soon understand them in detail.
-* Time series analysis is important in order to understand the underlying structure and function that produce the observations.
+* Time series allows you to analyze significant patterns such as trends, seasonality, cyclicity, and irregularity. Don't worry if you are unaware of some of these terms - we will soon understand them in detail.
+* Time series analysis is essential to understand the underlying structure and function that produce the observations.
 * Time series analysis can help to make better predictions
-* Understanding the mechanisms of a time series allows a model to be developed that explains the data in such a way that prediction, monitoring, or control can occur.
+* Understanding the mechanisms of a time series allows a model to be developed that explains the data so that prediction, monitoring, or control can occur.
 
 
 
@@ -45,10 +43,8 @@ over time.
 
 ## Uses of Time Series Analysis
 
-* Time series analysis can be useful to see how a given asset,
-security, or economic variable changes over time.
-* It can also be used to examine how the changes associated
-with the chosen data point compared to shifts in other variables over the same time period.
+* Time series analysis can be helpful to see how a given asset, security, or economic variable changes over time.
+* It can also be used to examine how the changes associated with the chosen data point compared to shifts in other variables over the same period.
 
 
 
@@ -56,13 +52,13 @@ with the chosen data point compared to shifts in other variables over the same t
 
 ## A case study
 
-For example, suppose you wanted to analyze a time series of daily closing stock prices for a given stock over a period of one year. You would obtain a list of all the closing prices for the stock from each day for the past year and list them in chronological order. This would be a one-year daily closing price time series for the stock.
+For example, suppose you wanted to analyze a time series of daily closing stock prices for a given stock over one year. You would obtain a list of all the closing prices for the stock from each day for the past year and list them in chronological order. This would be a one-year daily closing price time series for the stock.
 
 Delving a bit deeper, you might analyze time series data with technical analysis tools to know whether the stock's time series shows any seasonality (We will delve more into seasonality in the upcoming slides).
 
-This will help to determine if the stock price reach its maximum value and minimum value at regular times each year. 
+This will help determine if the stock price reaches its maximum and minimum value at regular times each year. 
 
-One can analyze this by taking the observed prices and then correlating them to a chosen seasons.
+One can analyze this by taking the observed prices and correlating them to a chosen season.
 
 Seasons can be traditional calendar seasons, such as summer and winter, or retail seasons, such as holiday seasons.
 
@@ -80,13 +76,13 @@ Seasons can be traditional calendar seasons, such as summer and winter, or retai
 
 
 ### Assumptions About Time Series Data
-* The main assumption in time series data is that it assumes that the past patterns and behaviors will continue in the future.
+* The primary assumption in time series data is that it assumes that the past patterns and behaviors will continue in the future.
 
 
 ### How is it Different From Normal Machine Learning Problems?
 In both types of problems, time plays a role, with historical data being used to train a model to predict the future. Both machine learning datasets are a collection of observations. So, what is the difference?
 
-In a normal machine learning dataset, all historical observations are treated equally, whereas time series is a sequence of observations, they are captured sequentially in time, therefore in the case of time series, the observations follow some order.
+In a normal machine learning dataset, all historical observations are treated equally, whereas time series is a sequence of observations. These are captured sequentially in time; therefore, in the case of time series, the observations follow some order.
 
 ## Examples of Time Series Data
 
